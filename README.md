@@ -6,4 +6,4 @@ I have used weather api for it below is the weather api link
 https://openweathermap.org/api
 
 my weather forecast webpage link
-https://weatherforecastingpage.netlify.app/
+https://weatherforecastpage.netlify.app/
